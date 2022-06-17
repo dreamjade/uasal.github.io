@@ -19,6 +19,7 @@ layout: single
 - [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-79b8a6110/), graduate student at the University of Arizona College of Optical Sciences
 - Kian Milani, graduate student at the Wyant College of Optical Sciences at University of Arizona.
 - Bohan Li, graduate student in Computer Science at University of Arizona.
+- Yu-Chia Lin, graduate student in Physics at University of Arizona.
 
 ## Undergraduate Students
 - Ariel Shaver, UArizona undergraduate student in Systems Engineering.
